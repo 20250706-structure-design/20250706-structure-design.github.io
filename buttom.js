@@ -31,9 +31,9 @@ window.onload = function() {
     }
 
 
-    document.querySelector("#zhangweihong").onclick = function() {
-        document.querySelector("#zhangweihong_position").scrollIntoView(true);
-    }
+    // document.querySelector("#zhangweihong").onclick = function() {
+    //     document.querySelector("#zhangweihong_position").scrollIntoView(true);
+    // }
     document.querySelector("#zhangweisheng").onclick = function() {
         document.querySelector("#zhangweisheng_position").scrollIntoView(true);
     }
