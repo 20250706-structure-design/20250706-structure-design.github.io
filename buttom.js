@@ -29,6 +29,9 @@ window.onload = function() {
     document.querySelector("#jiabinjieshao1").onclick = function() {
         document.querySelector("#jiabinjieshao1_position").scrollIntoView(true);
     }
+    document.querySelector("#zuzhijiegou").onclick = function() {
+        document.querySelector("#zuzhijiegou_position").scrollIntoView(true);
+    }
 
 
     // document.querySelector("#zhangweihong").onclick = function() {
